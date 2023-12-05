@@ -1,0 +1,1180 @@
+city,year,arrests,population
+"New York, New York",1860,65809,813669
+"Philadelphia, Pennsylvania",1860,32051,565529
+"Brooklyn, New York",1860,15334,279122
+"Chicago, Illinois",1860,NA,109206
+"Boston, Massachusetts",1860,24466,177840
+"New Orleans, Louisiana",1880,18342,216090
+"New York, New York",1861,71130,826531
+"Philadelphia, Pennsylvania",1861,NA,573678
+"Brooklyn, New York",1861,16552,282520
+"Chicago, Illinois",1861,NA,128183
+"Boston, Massachusetts",1861,27297,185109
+"St. Louis, Missouri",1861,6465,175782
+"New York, New York",1862,82072,839393
+"Philadelphia, Pennsylvania",1862,27576,581828
+"Brooklyn, New York",1862,19397,285918
+"Chicago, Illinois",1862,NA,147160
+"Boston, Massachusetts",1862,25627,192377
+"St. Louis, Missouri",1862,NA,190191
+"Cincinnati, Ohio",1862,7126,172083
+"San Francisco, California",1862,6957,75336
+"Washington, DC",1862,22207,65930
+"Detroit, Michigan",1862,1858,52411
+"Lowell, Massachusetts",1862,1476,37647
+"New York, New York",1863,61888,852255
+"Philadelphia, Pennsylvania",1863,34050,589977
+"Brooklyn, New York",1863,15324,289316
+"Chicago, Illinois",1863,NA,166137
+"Boston, Massachusetts",1863,28890,199646
+"St. Louis, Missouri",1863,NA,205800
+"Cincinnati, Ohio",1863,6906,177602
+"San Francisco, California",1863,5422,84603
+"Washington, DC",1863,23912,70737
+"Detroit, Michigan",1863,1640,55806
+"Providence, Rhode Island",1863,1427,56137
+"New Haven, Connecticut",1863,1539,42739
+"Lowell, Massachusetts",1863,1940,38057
+"New York, New York",1864,54751,865117
+"Philadelphia, Pennsylvania",1864,35244,598162
+"Brooklyn, New York",1864,14820,292714
+"Chicago, Illinois",1864,NA,185114
+"Boston, Massachusetts",1864,12914,206915
+"St. Louis, Missouri",1864,7385,220809
+"Baltimore, Maryland",1864,12861,233391
+"Cincinnati, Ohio",1864,7003,183122
+"San Francisco, California",1864,6887,93870
+"Washington, DC",1864,23545,75545
+"Detroit, Michigan",1864,NA,NA
+"Providence, Rhode Island",1864,2531,57961
+"New Haven, Connecticut",1864,1838,43896
+"Lowell, Massachusetts",1864,1825,38467
+"New York, New York",1865,68873,877979
+"Philadelphia, Pennsylvania",1865,39315,606276
+"Brooklyn, New York",1865,19482,296112
+"Chicago, Illinois",1865,NA,204091
+"Boston, Massachusetts",1865,17881,214183
+"St. Louis, Missouri",1865,NA,235818
+"Baltimore, Maryland",1865,NA,NA
+"Cincinnati, Ohio",1865,NA,188642
+"San Francisco, California",1865,7619,103138
+"Washington, DC",1865,26478,80353
+"Detroit, Michigan",1865,3056,62596
+"Providence, Rhode Island",1865,4057,59785
+"New Haven, Connecticut",1865,1749,45054
+"Lowell, Massachusetts",1865,1683,38877
+"New York, New York",1866,75630,890841
+"Philadelphia, Pennsylvania",1866,43226,614425
+"Brooklyn, New York",1866,21957,316109
+"Chicago, Illinois",1866,NA,242045
+"Boston, Massachusetts",1866,17955,221452
+"St. Louis, Missouri",1866,9839,250828
+"Baltimore, Maryland",1866,NA,NA
+"Cincinnati, Ohio",1866,NA,194161
+"San Francisco, California",1866,9240,112405
+"Washington, DC",1866,24542,85160
+"Detroit, Michigan",1866,4096,65991
+"Providence, Rhode Island",1866,4020,61609
+"New Haven, Connecticut",1866,2023,46211
+"Lowell, Massachusetts",1866,1673,39287
+"New York, New York",1867,80532,903703
+"Philadelphia, Pennsylvania",1867,43506,622574
+"Brooklyn, New York",1867,21078,336107
+"Chicago, Illinois",1867,23315,223068
+"Boston, Massachusetts",1867,19120,228720
+"St. Louis, Missouri",1867,11589,265837
+"Baltimore, Maryland",1867,16588,250873
+"Cincinnati, Ohio",1867,8208,199680
+"San Francisco, California",1867,9123,121672
+"Washington, DC",1867,20075,89968
+"Detroit, Michigan",1867,3865,69386
+"Providence, Rhode Island",1867,3919,63433
+"New Haven, Connecticut",1867,2183,47368
+"Lowell, Massachusetts",1867,1873,39697
+"New York, New York",1868,78451,916565
+"Philadelphia, Pennsylvania",1868,NA,630723
+"Brooklyn, New York",1868,18700,356104
+"Chicago, Illinois",1868,NA,261022
+"Boston, Massachusetts",1868,19975,235989
+"St. Louis, Missouri",1868,11589,280846
+"Baltimore, Maryland",1868,21078,256367
+"Cincinnati, Ohio",1868,9101,205200
+"San Francisco, California",1868,9588,130939
+"Washington, DC",1868,18834,94776
+"Detroit, Michigan",1868,3619,72781
+"Milwaukee, Wisconsin",1868,2001,66208
+"Providence, Rhode Island",1868,5045,65256
+"New Haven, Connecticut",1868,2096,48525
+"Lowell, Massachusetts",1868,2028,40107
+"New York, New York",1869,72984,929427
+"Philadelphia, Pennsylvania",1869,38749,638873
+"Brooklyn, New York",1869,18730,376102
+"Chicago, Illinois",1869,NA,279999
+"Boston, Massachusetts",1869,21842,243257
+"St. Louis, Missouri",1869,13196,295855
+"Baltimore, Maryland",1869,21543,261860
+"Cincinnati, Ohio",1869,8291,210720
+"San Francisco, California",1869,11882,140206
+"Washington, DC",1869,17296,99584
+"Detroit, Michigan",1869,3355,76176
+"Milwaukee, Wisconsin",1869,1775,68828
+"Providence, Rhode Island",1869,5044,67080
+"New Haven, Connecticut",1869,2379,49683
+"Lowell, Massachusetts",1869,1990,40517
+"New York, New York",1870,83380,NA
+"Philadelphia, Pennsylvania",1870,31717,647022
+"Brooklyn, New York",1870,NA,396099
+"Chicago, Illinois",1870,28078,298977
+"Boston, Massachusetts",1870,28858,250526
+"St. Louis, Missouri",1870,14068,310864
+"Baltimore, Maryland",1870,8171,267354
+"Cincinnati, Ohio",1870,7358,216239
+"San Francisco, California",1870,13644,149473
+"Newark, New Jersey",1870,4096,104789
+"Washington, DC",1870,15603,109199
+"Louisville, Kentucky",1870,5014,100753
+"Detroit, Michigan",1870,3577,79577
+"Milwaukee, Wisconsin",1870,1649,71448
+"Providence, Rhode Island",1870,5639,68904
+"New Haven, Connecticut",1870,2495,50840
+"Lowell, Massachusetts",1870,2212,40928
+"New York, New York",1871,75692,968691
+"Philadelphia, Pennsylvania",1871,NA,667037
+"Brooklyn, New York",1871,17586,413802
+"Chicago, Illinois",1871,NA,319409
+"Boston, Massachusetts",1871,25201,261754
+"St. Louis, Missouri",1871,17484,314829
+"Baltimore, Maryland",1871,8367,273850
+"Cincinnati, Ohio",1871,7794,220129
+"San Francisco, California",1871,12332,157922
+"Washington, DC",1871,11462,113008
+"Newark, New Jersey",1871,5537,108204
+"Louisville, Kentucky",1871,6965,103054
+"Detroit, Michigan",1871,3929,83253
+"Providence, Rhode Island",1871,6427,72499
+"New Haven, Connecticut",1871,5363,52044
+"Lowell, Massachusetts",1871,NA,42783
+"New York, New York",1872,84514,995092
+"Philadelphia, Pennsylvania",1872,40386,687052
+"Brooklyn, New York",1872,15906,431506
+"Chicago, Illinois",1872,21931,339819
+"Boston, Massachusetts",1872,27902,272981
+"St. Louis, Missouri",1872,19308,318795
+"Baltimore, Maryland",1872,10122,280346
+"Cincinnati, Ohio",1872,9592,224019
+"San Francisco, California",1872,11035,166370
+"Cleveland, Ohio",1872,4967,99561
+"Buffalo, New York",1872,10534,125198
+"Washington, DC",1872,11306,116818
+"Newark, New Jersey",1872,6377,111349
+"Louisville, Kentucky",1872,NA,105354
+"Detroit, Michigan",1872,3839,86930
+"Providence, Rhode Island",1872,8110,76095
+"Richmond, Virginia",1872,6121,53550
+"New Haven, Connecticut",1872,4964,53248
+"Lowell, Massachusetts",1872,NA,44637
+"New York, New York",1873,95760,1021493
+"Philadelphia, Pennsylvania",1873,30886,707066
+"Brooklyn, New York",1873,25588,449209
+"Chicago, Illinois",1873,31585,360239
+"Boston, Massachusetts",1873,27845,284209
+"St. Louis, Missouri",1873,19463,322760
+"Baltimore, Maryland",1873,10116,286842
+"Cincinnati, Ohio",1873,11178,227909
+"San Francisco, California",1873,12810,174819
+"Cleveland, Ohio",1873,8579,113024
+"Buffalo, New York",1873,12535,128940
+"Washington, DC",1873,11781,120627
+"Newark, New Jersey",1873,6752,114494
+"Louisville, Kentucky",1873,6555,107654
+"Detroit, Michigan",1873,4861,90606
+"Milwaukee, Wisconsin",1873,2100,84690
+"Providence, Rhode Island",1873,9337,79690
+"Richmond, Virginia",1873,6393,54807
+"New Haven, Connecticut",1873,5227,54453
+"Lowell, Massachusetts",1873,NA,46492
+"New York, New York",1874,84821,1047890
+"Philadelphia, Pennsylvania",1874,32114,727081
+"Brooklyn, New York",1874,26263,466913
+"Chicago, Illinois",1874,27995,380660
+"Boston, Massachusetts",1874,29799,295437
+"St. Louis, Missouri",1874,20655,326726
+"Baltimore, Maryland",1874,NA,293338
+"Cincinnati, Ohio",1874,14845,231799
+"San Francisco, California",1874,13007,183267
+"Cleveland, Ohio",1874,9571,119756
+"Buffalo, New York",1874,10043,132682
+"Washington, DC",1874,13192,124437
+"Newark, New Jersey",1874,6400,117639
+"Louisville, Kentucky",1874,NA,109955
+"Detroit, Michigan",1874,4935,94282
+"Milwaukee, Wisconsin",1874,2444,89104
+"Providence, Rhode Island",1874,8440,83285
+"Richmond, Virginia",1874,6123,56063
+"New Haven, Connecticut",1874,5109,55657
+"Lowell, Massachusetts",1874,NA,48347
+"New York, New York",1875,84399,1074290
+"Philadelphia, Pennsylvania",1875,34978,747096
+"Brooklyn, New York",1875,24700,484616
+"Chicago, Illinois",1875,24232,401081
+"Boston, Massachusetts",1875,30445,306664
+"St. Louis, Missouri",1875,20515,330691
+"Baltimore, Maryland",1875,14130,299834
+"Cincinnati, Ohio",1875,10825,235689
+"San Francisco, California",1875,16820,191716
+"Cleveland, Ohio",1875,8823,126488
+"Buffalo, New York",1875,9991,136424
+"Washington, DC",1875,14152,128246
+"Newark, New Jersey",1875,6482,120784
+"Louisville, Kentucky",1875,4562,112256
+"Detroit, Michigan",1875,4109,97958
+"Milwaukee, Wisconsin",1875,2278,93518
+"Providence, Rhode Island",1875,8699,86880
+"Richmond, Virginia",1875,5520,57319
+"New Haven, Connecticut",1875,5092,56861
+"Lowell, Massachusetts",1875,NA,50202
+"New York, New York",1876,87307,1100690
+"Philadelphia, Pennsylvania",1876,NA,767111
+"Brooklyn, New York",1876,26669,501031
+"Chicago, Illinois",1876,27291,421502
+"Boston, Massachusetts",1876,30041,317892
+"St. Louis, Missouri",1876,22851,334656
+"Baltimore, Maryland",1876,26816,306329
+"Cincinnati, Ohio",1876,11846,239549
+"San Francisco, California",1876,20108,200165
+"Cleveland, Ohio",1876,8407,133219
+"Buffalo, New York",1876,8858,140166
+"Washington, DC",1876,14144,132055
+"Newark, New Jersey",1876,6270,123927
+"Louisville, Kentucky",1876,5514,114556
+"Detroit, Michigan",1876,3879,101635
+"Providence, Rhode Island",1876,7924,90476
+"Richmond, Virginia",1876,5811,58575
+"New Haven, Connecticut",1876,4756,58065
+"Lowell, Massachusetts",1876,2328,52056
+"New York, New York",1877,79865,1127090
+"Philadelphia, Pennsylvania",1877,44600,787126
+"Chicago, Illinois",1877,28035,441923
+"Boston, Massachusetts",1877,26683,319120
+"St. Louis, Missouri",1877,19427,338622
+"Baltimore, Maryland",1877,26195,312825
+"Cincinnati, Ohio",1877,14206,243469
+"San Francisco, California",1877,21789,208613
+"Cleveland, Ohio",1877,7845,139951
+"Buffalo, New York",1877,8126,143908
+"Washington, DC",1877,12983,135865
+"Newark, New Jersey",1877,5129,127071
+"Louisville, Kentucky",1877,6034,116856
+"Detroit, Michigan",1877,4657,105311
+"Providence, Rhode Island",1877,6754,94071
+"Rochester, New York",1877,4201,81272
+"Richmond, Virginia",1877,4715,59831
+"New Haven, Connecticut",1877,3926,59269
+"Lowell, Massachusetts",1877,2291,53911
+"New York, New York",1878,78533,1153490
+"Philadelphia, Pennsylvania",1878,43593,807140
+"Brooklyn, New York",1878,25373,533860
+"Chicago, Illinois",1878,27208,462343
+"Boston, Massachusetts",1878,25817,340348
+"St. Louis, Missouri",1878,18057,342587
+"Baltimore, Maryland",1878,24802,319321
+"Cincinnati, Ohio",1878,14512,247359
+"San Francisco, California",1878,18627,217062
+"Cleveland, Ohio",1878,7151,146683
+"Buffalo, New York",1878,8126,147650
+"Washington, DC",1878,12333,139674
+"Newark, New Jersey",1878,4988,130215
+"Louisville, Kentucky",1878,4776,119157
+"Detroit, Michigan",1878,4332,108987
+"Providence, Rhode Island",1878,6056,97666
+"Rochester, New York",1878,NA,83970
+"Richmond, Virginia",1878,4390,61088
+"New Haven, Connecticut",1878,4434,60474
+"Lowell, Massachusetts",1878,2708,55766
+"New York, New York",1879,65334,1177990
+"Philadelphia, Pennsylvania",1879,40714,827155
+"Brooklyn, New York",1879,25706,550274
+"Chicago, Illinois",1879,27338,482764
+"Boston, Massachusetts",1879,24507,351575
+"St. Louis, Missouri",1879,14036,346553
+"Baltimore, Maryland",1879,20787,325817
+"Cincinnati, Ohio",1879,13329,251249
+"San Francisco, California",1879,22120,225510
+"Cleveland, Ohio",1879,6549,153414
+"Buffalo, New York",1879,6697,151392
+"Washington, DC",1879,12610,143484
+"Newark, New Jersey",1879,4191,133359
+"Louisville, Kentucky",1879,4567,121458
+"Detroit, Michigan",1879,3922,112664
+"Providence, Rhode Island",1879,5328,101262
+"Rochester, New York",1879,NA,86668
+"Richmond, Virginia",1879,4184,62344
+"New Haven, Connecticut",1879,3947,61678
+"Lowell, Massachusetts",1879,2559,57620
+"New York, New York",1880,68477,1206299
+"Philadelphia, Pennsylvania",1880,44315,847170
+"Brooklyn, New York",1880,26785,566663
+"Chicago, Illinois",1880,28480,503185
+"Boston, Massachusetts",1880,24884,362839
+"Baltimore, Maryland",1880,22021,332313
+"St. Louis, Missouri",1880,14160,350518
+"Cincinnati, Ohio",1880,14592,255139
+"San Francisco, California",1880,21063,233959
+"Cleveland, Ohio",1880,7432,160146
+"Buffalo, New York",1880,9012,155134
+"Washington, DC",1880,13558,147293
+"Newark, New Jersey",1880,5042,136508
+"Louisville, Kentucky",1880,4712,123758
+"Detroit, Michigan",1880,4284,116340
+"Milwaukee, Wisconsin",1880,3141,115587
+"Providence, Rhode Island",1880,6506,104857
+"Rochester, New York",1880,NA,89366
+"Richmond, Virginia",1880,3946,63600
+"New Haven, Connecticut",1880,4611,62882
+"Lowell, Massachusetts",1880,2776,59475
+"New York, New York",1881,67135,1237200
+"Philadelphia, Pennsylvania",1881,45129,867149
+"Brooklyn, New York",1881,28889,590631
+"Chicago, Illinois",1881,31713,562852
+"Boston, Massachusetts",1881,28521,371403
+"St. Louis, Missouri",1881,15443,360643
+"Baltimore, Maryland",1881,24717,342526
+"Cincinnati, Ohio",1881,13192,259316
+"San Francisco, California",1881,23011,240463
+"Cleveland, Ohio",1881,7465,170267
+"Buffalo, New York",1881,9086,165187
+"Washington, DC",1881,13942,151457
+"Newark, New Jersey",1881,5726,140960
+"Louisville, Kentucky",1881,6420,127495
+"Detroit, Michigan",1881,4610,125294
+"Providence, Rhode Island",1881,7741,107586
+"Rochester, New York",1881,NA,93819
+"Richmond, Virginia",1881,4313,65379
+"New Haven, Connecticut",1881,4848,65198
+"Lowell, Massachusetts",1881,3144,61297
+"New York, New York",1882,67729,1268100
+"Philadelphia, Pennsylvania",1882,46130,887129
+"Brooklyn, New York",1882,27610,614599
+"Chicago, Illinois",1882,32800,622518
+"Boston, Massachusetts",1882,30777,379967
+"St. Louis, Missouri",1882,18555,370768
+"Baltimore, Maryland",1882,23902,352738
+"Cincinnati, Ohio",1882,15539,263493
+"San Francisco, California",1882,25969,246967
+"Cleveland, Ohio",1882,6741,180387
+"Buffalo, New York",1882,10258,175240
+"Washington, DC",1882,14552,155621
+"Newark, New Jersey",1882,5715,145412
+"Louisville, Kentucky",1882,7466,131232
+"Detroit, Michigan",1882,5148,134247
+"Providence, Rhode Island",1882,7033,110315
+"Rochester, New York",1882,NA,98272
+"Richmond, Virginia",1882,4762,67158
+"New Haven, Connecticut",1882,5642,67515
+"Lowell, Massachusetts",1882,2849,63119
+"New York, New York",1883,70701,1299000
+"Philadelphia, Pennsylvania",1883,45612,907108
+"Brooklyn, New York",1883,26819,638567
+"Chicago, Illinois",1883,37187,682184
+"Boston, Massachusetts",1883,30677,388530
+"St. Louis, Missouri",1883,18312,380894
+"Baltimore, Maryland",1883,24355,362951
+"Cincinnati, Ohio",1883,13255,267670
+"San Francisco, California",1883,24149,253470
+"Cleveland, Ohio",1883,7254,190508
+"Buffalo, New York",1883,9349,185293
+"Washington, DC",1883,15607,159785
+"Newark, New Jersey",1883,5504,149865
+"Louisville, Kentucky",1883,8746,134969
+"Detroit, Michigan",1883,6322,143201
+"Milwaukee, Wisconsin",1883,3667,142251
+"Providence, Rhode Island",1883,6527,113044
+"Rochester, New York",1883,NA,102725
+"Richmond, Virginia",1883,4566,68936
+"New Haven, Connecticut",1883,5789,69831
+"Lowell, Massachusetts",1883,3257,64941
+"New York, New York",1884,70254,1329900
+"Philadelphia, Pennsylvania",1884,46767,927088
+"Brooklyn, New York",1884,26119,662535
+"Chicago, Illinois",1884,39434,741851
+"Boston, Massachusetts",1884,31200,397094
+"St. Louis, Missouri",1884,19208,391019
+"Baltimore, Maryland",1884,26177,373163
+"Cincinnati, Ohio",1884,12774,271847
+"San Francisco, California",1884,25591,259974
+"Cleveland, Ohio",1884,7271,200629
+"Buffalo, New York",1884,10588,195346
+"Washington, DC",1884,17934,163949
+"Newark, New Jersey",1884,5293,154317
+"Louisville, Kentucky",1884,8176,138706
+"Detroit, Michigan",1884,7419,152154
+"Milwaukee, Wisconsin",1884,3237,151139
+"Providence, Rhode Island",1884,6422,115773
+"Rochester, New York",1884,NA,107178
+"Richmond, Virginia",1884,4625,70715
+"New Haven, Connecticut",1884,5976,72147
+"Lowell, Massachusetts",1884,3332,66763
+"New York, New York",1885,74315,1360800
+"Philadelphia, Pennsylvania",1885,51418,947067
+"Brooklyn, New York",1885,27391,686503
+"Chicago, Illinois",1885,40998,801518
+"Boston, Massachusetts",1885,28932,405658
+"St. Louis, Missouri",1885,19330,401144
+"Baltimore, Maryland",1885,26804,383376
+"Cincinnati, Ohio",1885,8039,276024
+"San Francisco, California",1885,24434,266478
+"Cleveland, Ohio",1885,6882,210750
+"Buffalo, New York",1885,10980,205399
+"Washington, DC",1885,23225,168172
+"Newark, New Jersey",1885,5263,158769
+"Louisville, Kentucky",1885,7497,142443
+"Detroit, Michigan",1885,7708,161108
+"Milwaukee, Wisconsin",1885,3597,160027
+"Providence, Rhode Island",1885,6178,118502
+"Rochester, New York",1885,NA,111631
+"Richmond, Virginia",1885,4634,72494
+"New Haven, Connecticut",1885,5642,74464
+"Lowell, Massachusetts",1885,2771,68585
+"New York, New York",1886,73928,1391700
+"Philadelphia, Pennsylvania",1886,NA,967046
+"Brooklyn, New York",1886,25709,710471
+"Chicago, Illinois",1886,44261,NA
+"Boston, Massachusetts",1886,28510,414222
+"St. Louis, Missouri",1886,18851,411270
+"Baltimore, Maryland",1886,27200,393589
+"Cincinnati, Ohio",1886,17660,280200
+"San Francisco, California",1886,26587,272882
+"Cleveland, Ohio",1886,6732,220870
+"Buffalo, New York",1886,9544,215452
+"Washington, DC",1886,22388,172276
+"Newark, New Jersey",1886,5366,163221
+"Louisville, Kentucky",1886,6893,146180
+"Detroit, Michigan",1886,8187,170062
+"Milwaukee, Wisconsin",1886,3726,168915
+"Providence, Rhode Island",1886,5337,121230
+"Rochester, New York",1886,NA,116084
+"Richmond, Virginia",1886,5052,74273
+"New Haven, Connecticut",1886,5802,76780
+"Lowell, Massachusetts",1886,3393,70407
+"New York, New York",1887,81176,1422600
+"Philadelphia, Pennsylvania",1887,57944,987026
+"Brooklyn, New York",1887,28567,734439
+"Chicago, Illinois",1887,46505,920850
+"Boston, Massachusetts",1887,30681,422786
+"St. Louis, Missouri",1887,19046,421395
+"Baltimore, Maryland",1887,29538,403801
+"Cincinnati, Ohio",1887,19554,284377
+"San Francisco, California",1887,20385,279486
+"New Orleans, Louisiana",1887,16800,228522
+"Cleveland, Ohio",1887,8588,230991
+"Buffalo, New York",1887,12404,225505
+"Washington, DC",1887,19975,176440
+"Newark, New Jersey",1887,6294,167673
+"Louisville, Kentucky",1887,6857,149917
+"Detroit, Michigan",1887,9400,179015
+"Milwaukee, Wisconsin",1887,3726,177803
+"Providence, Rhode Island",1887,5151,123959
+"Rochester, New York",1887,4014,120537
+"Pittsburgh, Pennsylvania",1887,9572,213948
+"Richmond, Virginia",1887,5963,76052
+"New Haven, Connecticut",1887,5941,79096
+"Lowell, Massachusetts",1887,3484,72229
+"New York, New York",1888,85094,1453500
+"Philadelphia, Pennsylvania",1888,46899,1007005
+"Brooklyn, New York",1888,31124,758407
+"Chicago, Illinois",1888,50432,980517
+"Boston, Massachusetts",1888,36009,431349
+"St. Louis, Missouri",1888,17938,431521
+"Baltimore, Maryland",1888,29789,414014
+"Cincinnati, Ohio",1888,19889,288554
+"San Francisco, California",1888,19466,285989
+"New Orleans, Louisiana",1888,NA,NA
+"Cleveland, Ohio",1888,8737,241112
+"Buffalo, New York",1888,NA,235558
+"Washington, DC",1888,20530,180604
+"Newark, New Jersey",1888,NA,1172156
+"Louisville, Kentucky",1888,4193,153654
+"Detroit, Michigan",1888,9142,187969
+"Milwaukee, Wisconsin",1888,4401,186691
+"Providence, Rhode Island",1888,5930,126688
+"Rochester, New York",1888,NA,124990
+"Pittsburgh, Pennsylvania",1888,10423,222171
+"Richmond, Virginia",1888,6290,77830
+"New Haven, Connecticut",1888,6149,81412
+"Lowell, Massachusetts",1888,4150,74051
+"New York, New York",1889,82200,1484400
+"Philadelphia, Pennsylvania",1889,42673,1026985
+"Brooklyn, New York",1889,34631,782375
+"Chicago, Illinois",1889,48119,1040184
+"Boston, Massachusetts",1889,40066,439913
+"St. Louis, Missouri",1889,17987,441646
+"Baltimore, Maryland",1889,31420,424226
+"Cincinnati, Ohio",1889,19080,292731
+"San Francisco, California",1889,23462,292493
+"New Orleans, Louisiana",1889,NA,NA
+"Cleveland, Ohio",1889,10377,251232
+"Buffalo, New York",1889,16170,245611
+"Washington, DC",1889,21150,189768
+"Newark, New Jersey",1889,7008,176578
+"Louisville, Kentucky",1889,6964,157391
+"Detroit, Michigan",1889,8746,196922
+"Milwaukee, Wisconsin",1889,4624,195579
+"Providence, Rhode Island",1889,6446,129417
+"Rochester, New York",1889,NA,129443
+"Pittsburgh, Pennsylvania",1889,14299,230394
+"Richmond, Virginia",1889,6901,79609
+"New Haven, Connecticut",1889,6191,83729
+"Lowell, Massachusetts",1889,4557,75873
+"New York, New York",1890,84556,1515301
+"Philadelphia, Pennsylvania",1890,49148,1046964
+"Brooklyn, New York",1890,38314,806343
+"Chicago, Illinois",1890,62230,1099850
+"Boston, Massachusetts",1890,37492,448477
+"St. Louis, Missouri",1890,19724,451770
+"Baltimore, Maryland",1890,30730,434439
+"Cincinnati, Ohio",1890,19849,296908
+"San Francisco, California",1890,23549,298997
+"New Orleans, Louisiana",1890,NA,NA
+"Cleveland, Ohio",1890,9616,261353
+"Buffalo, New York",1890,17628,255664
+"Washington, DC",1890,24372,188932
+"Newark, New Jersey",1890,7041,181030
+"Louisville, Kentucky",1890,6621,161129
+"Detroit, Michigan",1890,8693,205876
+"Milwaukee, Wisconsin",1890,5445,204468
+"Providence, Rhode Island",1890,6590,132146
+"Rochester, New York",1890,NA,133896
+"Pittsburgh, Pennsylvania",1890,19906,238617
+"Richmond, Virginia",1890,6570,81388
+"New Haven, Connecticut",1890,5869,86045
+"Lowell, Massachusetts",1890,3846,77696
+"New York, New York",1891,90124,1568830
+"Philadelphia, Pennsylvania",1891,53184,1071637
+"Brooklyn, New York",1891,37319,842637
+"Chicago, Illinois",1891,70550,1159722
+"Boston, Massachusetts",1891,41132,459718
+"St. Louis, Missouri",1891,20729,464117
+"Baltimore, Maryland",1891,30215,441891
+"Cincinnati, Ohio",1891,18632,299807
+"San Francisco, California",1891,24528,303376
+"New Orleans, Louisiana",1891,22449,246546
+"Cleveland, Ohio",1891,11133,273394
+"Buffalo, New York",1891,NA,265336
+"Washington, DC",1891,25166,197911
+"Newark, New Jersey",1891,7470,187534
+"Louisville, Kentucky",1891,6938,165489
+"Detroit, Michigan",1891,8720,213859
+"Milwaukee, Wisconsin",1891,5615,212553
+"Providence, Rhode Island",1891,6900,136491
+"Rochester, New York",1891,NA,136767
+"Pittsburgh, Pennsylvania",1891,21801,246847
+"Richmond, Virginia",1891,6810,81754
+"New Haven, Connecticut",1891,6000,88243
+"Lowell, Massachusetts",1891,5357,79423
+"New York, New York",1892,84498,1622360
+"Philadelphia, Pennsylvania",1892,52944,1096311
+"Brooklyn, New York",1892,39856,878391
+"Chicago, Illinois",1892,89833,1219595
+"Boston, Massachusetts",1892,48463,470960
+"St. Louis, Missouri",1892,22935,476464
+"Baltimore, Maryland",1892,31781,449343
+"Cincinnati, Ohio",1892,20674,302707
+"San Francisco, California",1892,29259,307754
+"New Orleans, Louisiana",1892,21822,251052
+"Cleveland, Ohio",1892,10717,285436
+"Buffalo, New York",1892,NA,275009
+"Washington, DC",1892,26666,206889
+"Newark, New Jersey",1892,7040,194038
+"Louisville, Kentucky",1892,7133,170849
+"Detroit, Michigan",1892,7769,221842
+"Milwaukee, Wisconsin",1892,6610,220637
+"Providence, Rhode Island",1892,6812,140836
+"Rochester, New York",1892,NA,139638
+"Pittsburgh, Pennsylvania",1892,16340,255077
+"Richmond, Virginia",1892,6540,82120
+"New Haven, Connecticut",1892,6285,90441
+"Lowell, Massachusetts",1892,6153,81151
+"New York, New York",1893,86488,1675890
+"Philadelphia, Pennsylvania",1893,57297,1120984
+"Brooklyn, New York",1893,40349,914415
+"Chicago, Illinois",1893,96976,1279468
+"Boston, Massachusetts",1893,46109,482202
+"St. Louis, Missouri",1893,25280,488810
+"Baltimore, Maryland",1893,31363,456794
+"Cincinnati, Ohio",1893,20708,305606
+"San Francisco, California",1893,26982,312133
+"New Orleans, Louisiana",1893,23228,255558
+"Cleveland, Ohio",1893,9368,297478
+"Buffalo, New York",1893,NA,284681
+"Washington, DC",1893,27245,215686
+"Newark, New Jersey",1893,6605,200542
+"Louisville, Kentucky",1893,7079,175209
+"Detroit, Michigan",1893,8586,229824
+"Milwaukee, Wisconsin",1893,6219,228722
+"Providence, Rhode Island",1893,7105,145181
+"Rochester, New York",1893,NA,142510
+"Pittsburgh, Pennsylvania",1893,15189,263307
+"Richmond, Virginia",1893,6070,82486
+"New Haven, Connecticut",1893,6541,92640
+"Lowell, Massachusetts",1893,5635,82878
+"New York, New York",1894,98296,1725420
+"Philadelphia, Pennsylvania",1894,61478,1145657
+"Brooklyn, New York",1894,43275,950439
+"Chicago, Illinois",1894,88323,1339340
+"Boston, Massachusetts",1894,42035,493443
+"St. Louis, Missouri",1894,25033,501157
+"Baltimore, Maryland",1894,32136,464246
+"Cincinnati, Ohio",1894,20314,308506
+"San Francisco, California",1894,25824,316511
+"New Orleans, Louisiana",1894,25819,260065
+"Cleveland, Ohio",1894,9751,309519
+"Buffalo, New York",1894,NA,294353
+"Washington, DC",1894,24323,224846
+"Newark, New Jersey",1894,6969,207246
+"Louisville, Kentucky",1894,8390,179569
+"Detroit, Michigan",1894,11762,237807
+"Milwaukee, Wisconsin",1894,5943,236807
+"Providence, Rhode Island",1894,6548,149526
+"Rochester, New York",1894,NA,145381
+"Pittsburgh, Pennsylvania",1894,13762,271537
+"Richmond, Virginia",1894,5964,82852
+"New Haven, Connecticut",1894,6314,94838
+"Lowell, Massachusetts",1894,4831,84605
+"New York, New York",1895,112997,1782950
+"Philadelphia, Pennsylvania",1895,60347,1170330
+"Brooklyn, New York",1895,44917,986463
+"Chicago, Illinois",1895,83464,1399212
+"Boston, Massachusetts",1895,42534,504684
+"St. Louis, Missouri",1895,24793,513504
+"Baltimore, Maryland",1895,30193,471698
+"Cincinnati, Ohio",1895,18606,311405
+"San Francisco, California",1895,25960,320890
+"New Orleans, Louisiana",1895,22641,264572
+"Cleveland, Ohio",1895,11006,321560
+"Buffalo, New York",1895,NA,304026
+"Washington, DC",1895,23104,233825
+"Newark, New Jersey",1895,7174,213550
+"Louisville, Kentucky",1895,6111,183929
+"Detroit, Michigan",1895,8102,245790
+"Milwaukee, Wisconsin",1895,5582,244892
+"Providence, Rhode Island",1895,7117,149971
+"Rochester, New York",1895,NA,148252
+"Pittsburgh, Pennsylvania",1895,14737,279767
+"Richmond, Virginia",1895,5412,83218
+"New Haven, Connecticut",1895,6202,97036
+"Lowell, Massachusetts",1895,5879,86332
+"New York, New York",1896,110979,1836480
+"Philadelphia, Pennsylvania",1896,58072,1195004
+"Brooklyn, New York",1896,38692,1022487
+"Chicago, Illinois",1896,96847,1459085
+"Boston, Massachusetts",1896,48796,515926
+"St. Louis, Missouri",1896,27695,525851
+"Baltimore, Maryland",1896,31248,479150
+"Cincinnati, Ohio",1896,16480,314304
+"San Francisco, California",1896,30462,325268
+"New Orleans, Louisiana",1896,24261,269078
+"Cleveland, Ohio",1896,10717,333602
+"Buffalo, New York",1896,NA,313698
+"Washington, DC",1896,22562,242804
+"Newark, New Jersey",1896,7156,220054
+"Louisville, Kentucky",1896,6947,188289
+"Detroit, Michigan",1896,6529,253773
+"Milwaukee, Wisconsin",1896,5441,252976
+"Providence, Rhode Island",1896,8073,154316
+"Rochester, New York",1896,NA,151123
+"Pittsburgh, Pennsylvania",1896,15452,287997
+"Richmond, Virginia",1896,5538,83584
+"New Haven, Connecticut",1896,6181,99234
+"Lowell, Massachusetts",1896,5879,88060
+"New York, New York",1897,108033,3158265
+"Philadelphia, Pennsylvania",1897,62628,1219677
+"Chicago, Illinois",1897,83680,1518958
+"Boston, Massachusetts",1897,45659,527168
+"St. Louis, Missouri",1897,24211,538198
+"Baltimore, Maryland",1897,34293,486602
+"Cincinnati, Ohio",1897,16502,317204
+"San Francisco, California",1897,29168,329646
+"New Orleans, Louisiana",1897,21689,273585
+"Cleveland, Ohio",1897,14481,345644
+"Buffalo, New York",1897,25573,323370
+"Washington, DC",1897,22859,251782
+"Newark, New Jersey",1897,7183,226558
+"Louisville, Kentucky",1897,7379,192649
+"Detroit, Michigan",1897,7197,261756
+"Milwaukee, Wisconsin",1897,5695,261061
+"Providence, Rhode Island",1897,8474,158661
+"Rochester, New York",1897,NA,153994
+"Pittsburgh, Pennsylvania",1897,16470,296227
+"Richmond, Virginia",1897,4694,83950
+"New Haven, Connecticut",1897,7033,101432
+"Lowell, Massachusetts",1897,4377,89787
+"New York, New York",1898,141745,3251244
+"Philadelphia, Pennsylvania",1898,62907,1244350
+"Chicago, Illinois",1898,77441,1578830
+"Boston, Massachusetts",1898,41816,538409
+"St. Louis, Missouri",1898,26253,550544
+"Baltimore, Maryland",1898,32096,494053
+"Cincinnati, Ohio",1898,15504,320103
+"San Francisco, California",1898,28013,334025
+"New Orleans, Louisiana",1898,21347,278091
+"Cleveland, Ohio",1898,14452,357685
+"Buffalo, New York",1898,24489,333042
+"Washington, DC",1898,25237,260761
+"Newark, New Jersey",1898,6268,233062
+"Louisville, Kentucky",1898,7280,197009
+"Detroit, Michigan",1898,7052,269738
+"Milwaukee, Wisconsin",1898,6062,269146
+"Providence, Rhode Island",1898,8126,163006
+"Rochester, New York",1898,NA,156886
+"Pittsburgh, Pennsylvania",1898,NA,304457
+"Richmond, Virginia",1898,4617,84316
+"New Haven, Connecticut",1898,6728,103631
+"Lowell, Massachusetts",1898,NA,91514
+"New York, New York",1899,138875,3344223
+"Philadelphia, Pennsylvania",1899,62075,1269024
+"Chicago, Illinois",1899,71349,1638702
+"Boston, Massachusetts",1899,39760,549650
+"St. Louis, Missouri",1899,24420,562891
+"Baltimore, Maryland",1899,29335,501505
+"Cincinnati, Ohio",1899,15540,323003
+"San Francisco, California",1899,27769,338404
+"New Orleans, Louisiana",1899,NA,282598
+"Cleveland, Ohio",1899,15674,369726
+"Buffalo, New York",1899,23338,342715
+"Washington, DC",1899,25923,269739
+"Newark, New Jersey",1899,6590,239566
+"Louisville, Kentucky",1899,7700,201369
+"Detroit, Michigan",1899,7443,277721
+"Milwaukee, Wisconsin",1899,5266,277231
+"Providence, Rhode Island",1899,8663,167351
+"Rochester, New York",1899,NA,159737
+"Pittsburgh, Pennsylvania",1899,18762,312687
+"Richmond, Virginia",1899,4493,84682
+"New Haven, Connecticut",1899,6314,105829
+"Lowell, Massachusetts",1899,3924,93242
+"New York, New York",1900,132805,3437202
+"Philadelphia, Pennsylvania",1900,65630,1293697
+"Chicago, Illinois",1900,70438,1698575
+"Boston, Massachusetts",1900,33655,560892
+"St. Louis, Missouri",1900,23480,575238
+"Baltimore, Maryland",1900,30823,508957
+"Cincinnati, Ohio",1900,16331,325902
+"San Francisco, California",1900,26448,342782
+"New Orleans, Louisiana",1900,17839,287104
+"Cleveland, Ohio",1900,19923,381768
+"Buffalo, New York",1900,28347,352387
+"Washington, DC",1900,25943,278718
+"Newark, New Jersey",1900,7232,246070
+"Louisville, Kentucky",1900,8048,204731
+"Detroit, Michigan",1900,7795,285704
+"Milwaukee, Wisconsin",1900,4811,285315
+"Providence, Rhode Island",1900,9440,175597
+"Rochester, New York",1900,NA,162608
+"Pittsburgh, Pennsylvania",1900,NA,321616
+"Richmond, Virginia",1900,4860,85050
+"New Haven, Connecticut",1900,6165,108027
+"Lowell, Massachusetts",1900,4213,94969
+"New York, New York",1901,133749,3570190
+"Philadelphia, Pennsylvania",1901,61189,1319228
+"Chicago, Illinois",1901,69442,1747246
+"Boston, Massachusetts",1901,34500,571861
+"St. Louis, Missouri",1901,23666,586417
+"Baltimore, Maryland",1901,31423,513910
+"Cincinnati, Ohio",1901,20584,329671
+"San Francisco, California",1901,27362,350195
+"New Orleans, Louisiana",1901,17221,292301
+"Cleveland, Ohio",1901,19219,399658
+"Buffalo, New York",1901,25057,359520
+"Washington, DC",1901,26062,283953
+"Newark, New Jersey",1901,6399,256210
+"Louisville, Kentucky",1901,7396,206651
+"Detroit, Michigan",1901,8228,303710
+"Milwaukee, Wisconsin",1901,4794,294169
+"Providence, Rhode Island",1901,9025,180470
+"Rochester, New York",1901,NA,168162
+"Pittsburgh, Pennsylvania",1901,NA,342845
+"Richmond, Virginia",1901,5137,89308
+"New Haven, Connecticut",1901,5229,110585
+"Lowell, Massachusetts",1901,4730,96102
+"New York, New York",1902,145936,3703178
+"Philadelphia, Pennsylvania",1902,65468,1344759
+"Chicago, Illinois",1902,70314,1795917
+"Boston, Massachusetts",1902,34732,582831
+"St. Louis, Missouri",1902,25564,597596
+"Baltimore, Maryland",1902,31362,518863
+"Cincinnati, Ohio",1902,15822,333440
+"San Francisco, California",1902,28480,357608
+"New Orleans, Louisiana",1902,16472,297498
+"Cleveland, Ohio",1902,18236,417547
+"Buffalo, New York",1902,18716,366653
+"Washington, DC",1902,29543,289188
+"Newark, New Jersey",1902,6912,266350
+"Louisville, Kentucky",1902,7958,208571
+"Detroit, Michigan",1902,8274,321716
+"Milwaukee, Wisconsin",1902,5260,303023
+"Providence, Rhode Island",1902,10112,185343
+"Rochester, New York",1902,5117,173706
+"Pittsburgh, Pennsylvania",1902,NA,364074
+"Richmond, Virginia",1902,6153,93566
+"New Haven, Connecticut",1902,5149,113143
+"Lowell, Massachusetts",1902,NA,97234
+"New York, New York",1903,175871,3836166
+"Philadelphia, Pennsylvania",1903,75699,1370290
+"Chicago, Illinois",1903,77763,1844587
+"Boston, Massachusetts",1903,43033,593800
+"St. Louis, Missouri",1903,25524,608775
+"Baltimore, Maryland",1903,28150,523815
+"Cincinnati, Ohio",1903,16192,337209
+"San Francisco, California",1903,29336,365021
+"New Orleans, Louisiana",1903,16046,302695
+"Cleveland, Ohio",1903,22250,435436
+"Buffalo, New York",1903,NA,373785
+"Washington, DC",1903,29839,294423
+"Newark, New Jersey",1903,7394,276490
+"Louisville, Kentucky",1903,6945,210490
+"Detroit, Michigan",1903,8978,339726
+"Milwaukee, Wisconsin",1903,5737,311878
+"Providence, Rhode Island",1903,11257,190216
+"Rochester, New York",1903,5404,179270
+"Pittsburgh, Pennsylvania",1903,NA,385303
+"Richmond, Virginia",1903,7090,97823
+"New Haven, Connecticut",1903,5246,115700
+"Lowell, Massachusetts",1903,5209,98366
+"New York, New York",1904,175880,3969154
+"Philadelphia, Pennsylvania",1904,73061,1395821
+"Chicago, Illinois",1904,66713,1893258
+"Boston, Massachusetts",1904,50265,604769
+"St. Louis, Missouri",1904,30560,619954
+"Baltimore, Maryland",1904,30999,528768
+"Cincinnati, Ohio",1904,17849,340978
+"San Francisco, California",1904,36208,372434
+"New Orleans, Louisiana",1904,15879,307892
+"Cleveland, Ohio",1904,24728,453326
+"Buffalo, New York",1904,19608,380918
+"Washington, DC",1904,29483,299658
+"Newark, New Jersey",1904,6626,286630
+"Louisville, Kentucky",1904,6793,212410
+"Detroit, Michigan",1904,8857,357729
+"Milwaukee, Wisconsin",1904,5666,320732
+"Providence, Rhode Island",1904,11222,195089
+"Rochester, New York",1904,6691,184824
+"Pittsburgh, Pennsylvania",1904,NA,406532
+"Richmond, Virginia",1904,6525,102081
+"New Haven, Connecticut",1904,5333,118258
+"Lowell, Massachusetts",1904,3934,99499
+"New York, New York",1905,198356,4102143
+"Philadelphia, Pennsylvania",1905,80855,1421352
+"Chicago, Illinois",1905,82572,1941929
+"Boston, Massachusetts",1905,48358,615738
+"St. Louis, Missouri",1905,26225,631134
+"Baltimore, Maryland",1905,34036,533721
+"Cincinnati, Ohio",1905,18879,344746
+"San Francisco, California",1905,33893,379847
+"New Orleans, Louisiana",1905,24418,313090
+"Cleveland, Ohio",1905,27926,471216
+"Buffalo, New York",1905,20475,388050
+"Washington, DC",1905,32016,304894
+"Newark, New Jersey",1905,7541,296770
+"Louisville, Kentucky",1905,7545,214330
+"Detroit, Michigan",1905,11113,375735
+"Milwaukee, Wisconsin",1905,6153,329586
+"Providence, Rhode Island",1905,11073,199962
+"Rochester, New York",1905,6970,190378
+"Pittsburgh, Pennsylvania",1905,NA,427761
+"Richmond, Virginia",1905,7123,106339
+"New Haven, Connecticut",1905,5619,120816
+"Lowell, Massachusetts",1905,4915,100632
+"New York, New York",1906,189202,4235131
+"Philadelphia, Pennsylvania",1906,83325,1446884
+"Chicago, Illinois",1906,91554,1990599
+"Boston, Massachusetts",1906,49906,626708
+"St. Louis, Missouri",1906,29315,642313
+"Baltimore, Maryland",1906,34511,538674
+"Cincinnati, Ohio",1906,16991,348515
+"San Francisco, California",1906,NA,387260
+"New Orleans, Louisiana",1906,26827,318287
+"Cleveland, Ohio",1906,31736,489105
+"Buffalo, New York",1906,22712,395183
+"Washington, DC",1906,32940,310128
+"Newark, New Jersey",1906,8673,306910
+"Louisville, Kentucky",1906,7806,216249
+"Detroit, Michigan",1906,12324,393741
+"Milwaukee, Wisconsin",1906,6804,338440
+"Providence, Rhode Island",1906,12262,204835
+"Rochester, New York",1906,7737,195932
+"Pittsburgh, Pennsylvania",1906,NA,448990
+"Richmond, Virginia",1906,7982,110597
+"New Haven, Connecticut",1906,5614,123374
+"Lowell, Massachusetts",1906,4894,101764
+"New York, New York",1907,204119,4368119
+"Philadelphia, Pennsylvania",1907,85863,1472415
+"Chicago, Illinois",1907,63132,2039271
+"Boston, Massachusetts",1907,57078,637677
+"St. Louis, Missouri",1907,32959,653492
+"Baltimore, Maryland",1907,34574,543627
+"Cincinnati, Ohio",1907,16141,352284
+"San Francisco, California",1907,27013,394673
+"New Orleans, Louisiana",1907,29709,323484
+"Cleveland, Ohio",1907,30418,506994
+"Buffalo, New York",1907,27128,402316
+"Washington, DC",1907,34417,315363
+"Newark, New Jersey",1907,10178,317050
+"Louisville, Kentucky",1907,7907,218169
+"Detroit, Michigan",1907,11291,411748
+"Milwaukee, Wisconsin",1907,8277,347294
+"Providence, Rhode Island",1907,12953,209708
+"Rochester, New York",1907,7971,201487
+"Pittsburgh, Pennsylvania",1907,NA,470219
+"Richmond, Virginia",1907,9602,114855
+"New Haven, Connecticut",1907,5473,125932
+"Lowell, Massachusetts",1907,4727,102896
+"New York, New York",1908,244822,4501107
+"Philadelphia, Pennsylvania",1908,90552,1497946
+"Chicago, Illinois",1908,68220,2087941
+"Boston, Massachusetts",1908,68146,648646
+"St. Louis, Missouri",1908,33152,664671
+"Baltimore, Maryland",1908,34846,548579
+"Cincinnati, Ohio",1908,17396,356053
+"San Francisco, California",1908,38738,402086
+"New Orleans, Louisiana",1908,30213,328681
+"Cleveland, Ohio",1908,10085,524884
+"Buffalo, New York",1908,32719,409448
+"Washington, DC",1908,33415,320598
+"Newark, New Jersey",1908,8973,327190
+"Louisville, Kentucky",1908,10824,220089
+"Detroit, Michigan",1908,11676,429754
+"Milwaukee, Wisconsin",1908,8175,356149
+"Providence, Rhode Island",1908,11745,214581
+"Rochester, New York",1908,8685,207041
+"Pittsburgh, Pennsylvania",1908,42908,491448
+"Richmond, Virginia",1908,8989,119112
+"New Haven, Connecticut",1908,5683,128489
+"Lowell, Massachusetts",1908,4839,104029
+"New York, New York",1909,220334,4634095
+"Philadelphia, Pennsylvania",1909,80879,1523477
+"Chicago, Illinois",1909,70575,2136612
+"Boston, Massachusetts",1909,71512,659616
+"St. Louis, Missouri",1909,38128,675820
+"Baltimore, Maryland",1909,31806,553532
+"Cincinnati, Ohio",1909,16329,359822
+"San Francisco, California",1909,34336,409499
+"New Orleans, Louisiana",1909,27044,333878
+"Cleveland, Ohio",1909,6018,542774
+"Buffalo, New York",1909,NA,416581
+"Washington, DC",1909,35910,325833
+"Newark, New Jersey",1909,8618,337330
+"Louisville, Kentucky",1909,12852,222008
+"Detroit, Michigan",1909,14718,447760
+"Milwaukee, Wisconsin",1909,7817,365003
+"Providence, Rhode Island",1909,NA,219454
+"Rochester, New York",1909,8157,212595
+"Pittsburgh, Pennsylvania",1909,35621,512677
+"Richmond, Virginia",1909,9290,123370
+"New Haven, Connecticut",1909,5765,131047
+"Lowell, Massachusetts",1909,4797,105162
+"New York, New York",1910,170681,4766883
+"Philadelphia, Pennsylvania",1910,82017,1549008
+"Chicago, Illinois",1910,81269,2185283
+"Boston, Massachusetts",1910,71207,670585
+"St. Louis, Missouri",1910,37102,687029
+"Baltimore, Maryland",1910,33055,558485
+"Cincinnati, Ohio",1910,16875,363591
+"San Francisco, California",1910,29855,426912
+"New Orleans, Louisiana",1910,25087,339075
+"Cleveland, Ohio",1910,7185,560663
+"Buffalo, New York",1910,22203,423715
+"Washington, DC",1910,34003,331069
+"Newark, New Jersey",1910,9200,347469
+"Louisville, Kentucky",1910,14183,223928
+"Detroit, Michigan",1910,17875,465766
+"Milwaukee, Wisconsin",1910,8827,373857
+"Providence, Rhode Island",1910,NA,224326
+"Rochester, New York",1910,8022,218149
+"Pittsburgh, Pennsylvania",1910,39151,533905
+"Richmond, Virginia",1910,9603,127628
+"New Haven, Connecticut",1910,6193,133605
+"Lowell, Massachusetts",1910,4771,106294
+"New York, New York",1911,153768,4852200
+"Philadelphia, Pennsylvania",1911,87557,1576485
+"Chicago, Illinois",1911,84838,2236925
+"Boston, Massachusetts",1911,70442,678333
+"St. Louis, Missouri",1911,34868,695614
+"Baltimore, Maryland",1911,32758,576019
+"Cincinnati, Ohio",1911,18031,367357
+"San Francisco, California",1911,32914,425888
+"New Orleans, Louisiana",1911,25559,343889
+"Cleveland, Ohio",1911,NA,584281
+"Buffalo, New York",1911,24229,432021
+"Washington, DC",1911,34068,341719
+"Newark, New Jersey",1911,8791,354174
+"Louisville, Kentucky",1911,16434,225024
+"Detroit, Michigan",1911,NA,518557
+"Milwaukee, Wisconsin",1911,9145,382186
+"Providence, Rhode Island",1911,11344,225653
+"Rochester, New York",1911,7596,225909
+"Pittsburgh, Pennsylvania",1911,36912,539349
+"Richmond, Virginia",1911,10497,132032
+"New Haven, Connecticut",1911,6706,136498
+"Lowell, Massachusetts",1911,4660,106940
+"New York, New York",1912,170375,4937516
+"Philadelphia, Pennsylvania",1912,96084,1603962
+"Chicago, Illinois",1912,86950,2288567
+"Boston, Massachusetts",1912,75496,686082
+"St. Louis, Missouri",1912,37265,696469
+"Baltimore, Maryland",1912,36864,593553
+"Cincinnati, Ohio",1912,18913,371122
+"San Francisco, California",1912,35594,434865
+"New Orleans, Louisiana",1912,26428,348703
+"Cleveland, Ohio",1912,7048,607899
+"Buffalo, New York",1912,27064,440327
+"Washington, DC",1912,35739,352369
+"Newark, New Jersey",1912,9234,360880
+"Louisville, Kentucky",1912,16326,226121
+"Detroit, Michigan",1912,21850,571348
+"Pittsburgh, Pennsylvania",1912,46185,544793
+"Richmond, Virginia",1912,11073,136436
+"New Haven, Connecticut",1912,7723,139391
+"Lowell, Massachusetts",1912,4516,107587
+"Rochester, New York",1912,7172,233669
+"Providence, Rhode Island",1912,11102,226980
+"Milwaukee, Wisconsin",1912,8927,390515
+"New York, New York",1913,182011,5022832
+"Philadelphia, Pennsylvania",1913,103673,1631439
+"Chicago, Illinois",1913,109764,2340210
+"Boston, Massachusetts",1913,81767,693830
+"St. Louis, Missouri",1913,39357,705054
+"Baltimore, Maryland",1913,42941,611087
+"Cincinnati, Ohio",1913,24054,374888
+"San Francisco, California",1913,37333,443841
+"New Orleans, Louisiana",1913,30649,353518
+"Cleveland, Ohio",1913,13892,631516
+"Buffalo, New York",1913,28401,448633
+"Washington, DC",1913,38396,363020
+"Newark, New Jersey",1913,9797,367586
+"Louisville, Kentucky",1913,13390,227217
+"Detroit, Michigan",1913,26861,624140
+"Milwaukee, Wisconsin",1913,9892,398844
+"Providence, Rhode Island",1913,NA,228307
+"Rochester, New York",1913,7517,241429
+"Pittsburgh, Pennsylvania",1913,45323,550236
+"Richmond, Virginia",1913,12428,140840
+"New Haven, Connecticut",1913,8556,142285
+"Lowell, Massachusetts",1913,5331,108234
+"New York, New York",1914,190184,5108149
+"Philadelphia, Pennsylvania",1914,100629,1658916
+"Chicago, Illinois",1914,116895,2391852
+"Boston, Massachusetts",1914,89205,701578
+"St. Louis, Missouri",1914,38896,713639
+"Baltimore, Maryland",1914,43573,628621
+"Cincinnati, Ohio",1914,25339,378653
+"San Francisco, California",1914,38615,452818
+"New Orleans, Louisiana",1914,37468,358332
+"Cleveland, Ohio",1914,14427,655134
+"Buffalo, New York",1914,33646,456939
+"Washington, DC",1914,37241,373670
+"Newark, New Jersey",1914,9771,374291
+"Louisville, Kentucky",1914,12645,228313
+"Detroit, Michigan",1914,20510,676931
+"Milwaukee, Wisconsin",1914,11380,407173
+"Providence, Rhode Island",1914,10812,229634
+"Rochester, New York",1914,7550,249189
+"Pittsburgh, Pennsylvania",1914,47652,555780
+"Richmond, Virginia",1914,12170,145244
+"New Haven, Connecticut",1914,9526,145178
+"Lowell, Massachusetts",1914,5458,108880
+"New York, New York",1915,212452,5193465
+"Philadelphia, Pennsylvania",1915,91237,1686393
+"Chicago, Illinois",1915,121714,2443494
+"Boston, Massachusetts",1915,88762,709326
+"St. Louis, Missouri",1915,39095,722224
+"Baltimore, Maryland",1915,40978,646156
+"Cincinnati, Ohio",1915,25547,382419
+"San Francisco, California",1915,44131,461794
+"New Orleans, Louisiana",1915,37086,363147
+"Cleveland, Ohio",1915,14950,678754
+"Buffalo, New York",1915,31096,465245
+"Washington, DC",1915,37219,384320
+"Newark, New Jersey",1915,11230,380996
+"Louisville, Kentucky",1915,12212,229410
+"Detroit, Michigan",1915,21687,729722
+"Milwaukee, Wisconsin",1915,11292,415502
+"Providence, Rhode Island",1915,10605,230961
+"Rochester, New York",1915,7988,256949
+"Pittsburgh, Pennsylvania",1915,45652,561224
+"Richmond, Virginia",1915,12728,149648
+"New Haven, Connecticut",1915,10366,148071
+"Lowell, Massachusetts",1915,5379,109526
+"New York, New York",1916,200901,5278782
+"Philadelphia, Pennsylvania",1916,95783,1713870
+"Chicago, Illinois",1916,111587,2495136
+"Boston, Massachusetts",1916,94476,717075
+"St. Louis, Missouri",1916,42516,730809
+"Baltimore, Maryland",1916,44488,663690
+"Cincinnati, Ohio",1916,32271,386185
+"San Francisco, California",1916,51430,470770
+"Buffalo, New York",1916,35144,473551
+"Washington, DC",1916,39377,394970
+"Newark, New Jersey",1916,12191,387702
+"Detroit, Michigan",1916,29541,782513
+"Milwaukee, Wisconsin",1916,11101,423831
+"Rochester, New York",1916,7792,264709
+"Richmond, Virginia",1916,13220,154052
+"New Haven, Connecticut",1916,12687,150964
+"Lowell, Massachusetts",1916,5930,110173
+"New York, New York",1917,187913,5364098
+"Philadelphia, Pennsylvania",1917,96041,1741347
+"Chicago, Illinois",1917,137910,2546778
+"Boston, Massachusetts",1917,108556,724823
+"St. Louis, Missouri",1917,54400,739394
+"Baltimore, Maryland",1917,49147,681224
+"San Francisco, California",1917,47809,479746
+"Buffalo, New York",1917,35853,481857
+"Washington, DC",1917,39562,405620
+"Newark, New Jersey",1917,12388,394408
+"Detroit, Michigan",1917,37764,835304
+"Milwaukee, Wisconsin",1917,12107,432160
+"Rochester, New York",1917,5882,272469
+"Richmond, Virginia",1917,10243,158456
+"New Haven, Connecticut",1917,12188,153857
+"Lowell, Massachusetts",1917,6890,110820
+"New York, New York",1918,170159,5449414
+"Philadelphia, Pennsylvania",1918,94039,1768824
+"Chicago, Illinois",1918,110819,2598421
+"Boston, Massachusetts",1918,90293,732571
+"St. Louis, Missouri",1918,49630,747979
+"Baltimore, Maryland",1918,62076,698758
+"Buffalo, New York",1918,35902,490163
+"Washington, DC",1918,43245,416271
+"Newark, New Jersey",1918,13087,401113
+"Detroit, Michigan",1918,38210,888096
+"Milwaukee, Wisconsin",1918,10039,440489
+"Rochester, New York",1918,4232,280229
+"Richmond, Virginia",1918,11963,162860
+"New Haven, Connecticut",1918,11480,156751
+"Lowell, Massachusetts",1918,7989,111466
+"New York, New York",1919,220149,5534732
+"Philadelphia, Pennsylvania",1919,75618,1796301
+"Chicago, Illinois",1919,96676,2650063
+"Boston, Massachusetts",1919,67947,740320
+"St. Louis, Missouri",1919,45876,756564
+"Baltimore, Maryland",1919,50027,716292
+"Buffalo, New York",1919,31326,498469
+"Washington, DC",1919,53356,426921
+"Newark, New Jersey",1919,11510,407818
+"Detroit, Michigan",1919,NA,940887
+"Milwaukee, Wisconsin",1919,9138,448818
+"Richmond, Virginia",1919,12463,167264
+"New Haven, Connecticut",1919,9352,159644
+"Lowell, Massachusetts",1919,5484,112113
+"New York, New York",1920,266749,5620048
+"Philadelphia, Pennsylvania",1920,73015,1823779
+"Chicago, Illinois",1920,94453,2701705
+"Boston, Massachusetts",1920,58817,748060
+"Baltimore, Maryland",1920,41988,733826
+"Buffalo, New York",1920,24436,506755
+"Washington, DC",1920,48930,437571
+"Newark, New Jersey",1920,14798,414524
+"Detroit, Michigan",1920,NA,993678
+"Milwaukee, Wisconsin",1920,10545,457147
+"New Haven, Connecticut",1920,7934,162537
+"Lowell, Massachusetts",1920,3932,2759
