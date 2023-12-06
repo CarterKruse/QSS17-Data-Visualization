@@ -1,0 +1,157 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: National Park Service, National Trails Intermountain Region, GIS
+      Publication_Date: Unknown
+      Publication_Time: Unknown
+      Title: Designated Route of the Trail of Tears National Historic Trail
+      Online_Linkage: Default value.
+  Description:
+    Abstract: This is a vector line ESRI Shapefile showing the approximate designated route of the Trail of Tears national historic trail. The coordinates for this data set were generally heads-up digitized at a scale of 1:100,000 (or larger) off of a series of planning maps and DRGs using a variety of GIS software packages.
+    Purpose: To show the location of the Designated Route of the Trail of Tears national historic trail. This data set represents a continuous representation of the trail as depicted in the Comprehensive Management Plan.  The NHT alignment was identified before ground-verification could occur and consequently the designated trail does not always coincide with historic trail trace. This trail is not accessible nor developed for the entire length depicted in this data set.  Do not cross private land without permission.  The intended use of all data in the trail GIS library is to support diverse trail activities including planning, management, maintenance, research, and interpretation.
+    Supplemental_Information: This data set was prepared on 3/1/2017. Only data for TRTE NHT is included.
+  Time_Period_of_Content:
+    Currentness_Reference: publication date
+  Status:
+    Progress: In work
+    Maintenance_and_Update_Frequency: As needed
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: none
+      Theme_Keyword: National Historic Trails
+    Theme:
+      Theme_Keyword_Thesaurus: National Park Service Theme Category Thesaurus
+      Theme_Keyword: Trails
+      Theme_Keyword: Cultural Resources
+    Theme:
+      Theme_Keyword_Thesaurus: ISO 19115 Topic Category
+      Theme_Keyword: society
+      Theme_Keyword: transportation
+    Place:
+      Place_Keyword_Thesaurus: none
+      Place_Keyword: Santa Fe National Historic Trail
+      Place_Keyword: SAFE
+      Place_Keyword: Old Spanish National Historic Trail
+      Place_Keyword: OLSP
+      Place_Keyword: El Camino Real de Tierra Adentro National Historic Trail
+      Place_Keyword: ELCA
+      Place_Keyword: El Camino Real de los Tejas National Historic Trail
+      Place_Keyword: ELTE
+      Place_Keyword: Mormon Pioneer National Historic Trail
+      Place_Keyword: MOPI
+      Place_Keyword: Pony Express National Historic Trail
+      Place_Keyword: POEX
+      Place_Keyword: California National Historic Trail
+      Place_Keyword: CALI
+      Place_Keyword: Oregon National Historic Trail
+      Place_Keyword: OREG
+      Place_Keyword: Trail of Tears National Historic Trail
+      Place_Keyword: TRTE
+      Place_Keyword: National Trails Intermountain Region
+      Place_Keyword: NTIR
+      Place_Keyword: NPS
+      Place_Keyword: National Park Service
+      Place_Keyword: BLM
+      Place_Keyword: Bureau of Land Management
+      Place_Keyword: USA
+      Place_Keyword: US
+      Place_Keyword: United States
+      Place_Keyword: North America
+    Place:
+      Place_Keyword_Thesaurus: National Park System Unit Name Thesaurus
+      Place_Keyword: Santa Fe National Historic Trail
+      Place_Keyword: Old Spanish National Historic Trail
+      Place_Keyword: El Camino Real de Tierra Adentro National Historic Trail
+      Place_Keyword: El Camino Real de los Tejas National Historic Trail
+      Place_Keyword: Mormon Pioneer National Historic Trail
+      Place_Keyword: Pony Express National Historic Trail
+      Place_Keyword: California National Historic Trail
+      Place_Keyword: Oregon National Historic Trail
+      Place_Keyword: Trail of Tears National Historic Trail
+    Place:
+      Place_Keyword_Thesaurus: National Park System Unit Code Thesaurus
+      Place_Keyword: SAFE
+      Place_Keyword: OLSP
+      Place_Keyword: ELCA
+      Place_Keyword: ELTE
+      Place_Keyword: MOPI
+      Place_Keyword: POEX
+      Place_Keyword: CALI
+      Place_Keyword: OREG
+      Place_Keyword: TRTE
+  Access_Constraints: See Use Constraints.
+  Use_Constraints: The designated national historic trail is not a fully developed hiking trail, but is a congressionally designated line, similar to a political boundary, that crosses many ownership jurisdictions.  Do not cross private land without permission. This data set should not be displayed or used at scales that exceed 1:100,000.  This is not a legal survey product.  For Section 106 and other compliance reviews, it is incumbent on the project proponent to contact the local land manager, owner and State Historic Preservation Office for more detailed data on trail resources to use during analysis.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: National Park Service, National Trails Intermountain Region, GIS
+      Contact_Position: GIS Specialist
+      Contact_Address:
+        Address_Type: mailing
+        Address: PO Box 728
+        City: Santa Fe
+        State_or_Province: NM
+        Postal_Code: 87504
+        Country: USA
+      Contact_Voice_Telephone: 505-988-6098
+      Contact_Facsimile_Telephone: 505-986-5214
+      Contact_Electronic_Mail_Address: brian_deaton@nps.gov
+      Hours_of_Service: 8AM - 4:30PM MDT, Monday through Friday
+      Contact_Instructions: none
+Data_Quality_Information:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report: No tests for attribute accuracy were performed.
+  Logical_Consistency_Report: No tests for logical consistency were performed.
+  Completeness_Report: No tests for completeness were performed.
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report: No tests for horizontal accuracy were performed.
+    Vertical_Positional_Accuracy:
+      Vertical_Positional_Accuracy_Report: No tests for vertical accuracy were performed.
+  Lineage:
+    Process_Step:
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: National Park Service, National Trails Intermountain Region, GIS
+      Contact_Position: GIS Specialist
+      Contact_Address:
+        Address_Type: mailing
+        Address: PO Box 728
+        City: Santa Fe
+        State_or_Province: NM
+        Postal_Code: 87504
+        Country: USA
+      Contact_Voice_Telephone: 505-988-6098
+      Contact_Facsimile_Telephone: 505-986-5214
+      Contact_Electronic_Mail_Address: brian_deaton@nps.gov
+      Hours_of_Service: 8AM - 4:30PM MDT, Monday through Friday
+  Distribution_Liability: The National Park Service shall not be held liable for improper or incorrect use of the data described and/or contained herein. These data and related graphics (i.e. GIF or JPG format files) are not legal documents and are not intended to be used as such. The information contained in these data is dynamic and may change over time. The data are not better than the original sources from which they were derived. It is the responsibility of the data user to use the data appropriately and consistent within the limitations of geospatial data in general and these data in particular. The related graphics are intended to aid the data user in acquiring relevant data; it is not appropriate to use the related graphics as data. The National Park Service gives no warranty, expressed or implied, as to the accuracy, reliability, or completeness of these data. It is strongly recommended that these data be directly acquired from an NPS server and not indirectly through other sources, which may have changed the data in some way. Although these data have been processed successfully on a computer system at the National Park Service, no warranty expressed or implied is made regarding the utility of the data on another system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. This disclaimer applies both to individual use of the data and aggregate use with other data.
+  Standard_Order_Process:
+    Fees: None
+Metadata_Reference_Information:
+  Metadata_Date: 20170301
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: National Park Service, National Trails Intermountain Region
+      Contact_Position: GIS Specialist
+      Contact_Address:
+        Address_Type: mailing address
+        Address: PO Box 728
+        City: Santa Fe
+        State_or_Province: NM
+        Postal_Code: 87504
+        Country: USA
+      Contact_Voice_Telephone: 505-988-6098
+      Contact_Facsimile_Telephone: 505-986-5214
+      Contact_Electronic_Mail_Address: brian_deaton@nps.gov
+  Metadata_Standard_Name: FGDC Content Standard for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Extensions:
+    Online_Linkage: http://nrdata.nps.gov/profiles/NPS_Profile.xml
+    Profile_Name: NPS NR and GIS Metadata Profile
